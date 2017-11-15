@@ -1,5 +1,6 @@
-- [ ] This is **a bug report**
-- [ ] This is **a feature request**
+<!-- Leave suitable line -->
+This is **a bug report**
+This is **a feature request**
 
 ---
 
