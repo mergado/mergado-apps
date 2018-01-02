@@ -8,11 +8,7 @@ Before creating an issue, please check first if a similar bug wasn't already rep
 
 <table>
   <tr>
-	  <td>Special maintenance update</td>
-	  <td>Wednesday, 22/11/2017</td>
-  </tr>
-  <tr>
 	  <td><b>Next Standard release</b></td>
-	  <td>Wednesday, 29/11/2017</td>
+	  <td>Wednesday, 29/01/2017</td>
   </tr>
 </table>
