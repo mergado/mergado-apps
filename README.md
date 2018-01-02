@@ -9,6 +9,6 @@ Before creating an issue, please check first if a similar bug wasn't already rep
 <table>
   <tr>
 	  <td><b>Next Standard release</b></td>
-	  <td>Wednesday, 29/01/2017</td>
+	  <td>Wednesday, 10/01/2018</td>
   </tr>
 </table>
